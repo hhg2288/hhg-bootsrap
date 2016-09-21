@@ -1,0 +1,26 @@
+{
+  "name": "hhg-bootstrapp",
+  "version": "0.0.1",
+  "description": "Custom base CSS Framework",
+  "main": "_hhg-bootstrap.sass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hhg2288/hhg-bootsrap.git"
+  },
+  "keywords": [
+    "css",
+    "framework",
+    "bootstrap",
+    "sass",
+    "helpers"
+  ],
+  "author": "Horacio Herrera <me@hherrerag.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhg2288/hhg-bootsrap/issues"
+  },
+  "homepage": "https://github.com/hhg2288/hhg-bootsrap#readme"
+}
